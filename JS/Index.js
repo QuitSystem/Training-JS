@@ -3,4 +3,12 @@ let message1 = "Hello World"
 
 const message2 = "Hello CodeWar"
 
-console.log(message2)
+if(true){
+    var message0 = 1;
+    let message2 = 2;
+
+    console.log("TEST", message2)
+}
+
+console.log(message0)
+console.log(message1)
