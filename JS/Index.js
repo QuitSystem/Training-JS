@@ -1,3 +1,6 @@
-var message = "Hello Coder"
+var message0 = "Hello Coder"
+let message1 = "Hello World"
 
-console.log(message)
+const message2 = "Hello CodeWar"
+
+console.log(message2)
