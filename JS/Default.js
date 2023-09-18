@@ -3,4 +3,4 @@ function DropData(x = 100) {
 }
 
 DropData()
-// Jika value di isi maka itu lah yang akan keluar berbeda jika dikosongkan maka yang keluar akan value dari Function //    
+// Jika value di isi maka itu lah yang akan keluar berbeda jika dikosongkan maka yang keluar akan value dari Function //
