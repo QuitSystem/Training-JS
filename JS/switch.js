@@ -1,5 +1,5 @@
 function testingSwitch() {
-  let nilai = 10;
+  let nilai = 8;
 
   switch (nilai) {
     case "10":
