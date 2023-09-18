@@ -15,3 +15,5 @@ function testingSwitch() {
       console.log("cukup")
   }
 }
+
+testingSwitch()
