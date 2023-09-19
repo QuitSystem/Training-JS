@@ -1,1 +1,1 @@
-# Training-JS
+# Fuck You JS
