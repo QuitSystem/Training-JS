@@ -10,5 +10,4 @@ function callObjects() {
     }
 }
 
-
 callObjects()
