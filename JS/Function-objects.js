@@ -1,8 +1,8 @@
 function fungsiOjects() {
-  var x = {
+  var x =  {
     pesan : halo(),
-  };
-  console.log(x.halo);
+  }
+  console.log(x.pesan);
 }
 
 function halo() {
