@@ -1,14 +1,16 @@
 function panggilObjects() {
-  var mobil = {
+  var car = {
     type: "sport",
     price: 2000000000,
     color: "black",
+    year: [2000,2001,2002,2003,2004,2005]
   };
 
-  console.log(mobil)
-  console.log(mobil.type)
-  console.log(mobil.price)
-  console.log(mobil.color)
+  console.log(car.type)
+
+//   Objects   //
+//   Objects with array   //
+console.log(car.year[4])
 }
 
 
